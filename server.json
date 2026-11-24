@@ -3,8 +3,17 @@
   "name": "com.modularpsl/site",
   "title": "PSL Modular Prefab Modular Housing Reference",
   "description": "PSL Modular articles on US prefab housing: state permits, ADU laws, container homes, delivery",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://modularpsl.com",
+  "icons": [
+    {
+      "src": "https://modularpsl.com/psl-favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
