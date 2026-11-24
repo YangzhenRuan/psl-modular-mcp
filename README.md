@@ -1,5 +1,7 @@
 # PSL Modular MCP server
 
+[![PSL Modular MCP connector](https://glama.ai/mcp/connectors/com.modularpsl/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.modularpsl/site)
+
 **Answers on US and Canadian prefab modular housing: permit costs, ADU and tiny house laws, container homes, delivery, site prep and import duties.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [PSL Modular](https://modularpsl.com?utm_source=github&utm_medium=readme&utm_campaign=mcp): **PSL Modular Prefab Modular Housing Reference**. Connect it to ChatGPT, Claude or another AI assistant and it answers from PSL Modular's published guides and articles, citing the page each answer comes from.
