@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "psl-modular": {
+      "type": "http",
+      "url": "https://modularpsl.com/mcp"
+    }
+  }
+}
